@@ -3,7 +3,7 @@
 
 ---
 
-<img src="[YOUR_BANNER_IMAGE_LINK_HERE](https://github.com/Yadnesh-Patil-12/Yadnesh-Patil-12/blob/main/Yadnesh%20Patil%20-%20AI_ML%20Developer.png?raw=true)" width="100%" />
+<img src="https://github.com/Yadnesh-Patil-12/Yadnesh-Patil-12/blob/main/Yadnesh%20Patil%20-%20AI_ML%20Developer.png?raw=true" width="100%" />
 
 ---
 
