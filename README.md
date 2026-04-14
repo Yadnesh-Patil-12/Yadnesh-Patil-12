@@ -18,7 +18,8 @@
 - 🧠 Strong in **Python & C++**
 - 🚀 Passionate about building real-world projects  
 - 📊 Interested in **Data Science & Cyber Security**
-- 🎥 Also creating tech content  
+- ᯤ Also creating tech content  
+- 🎥 Social Media Influencer (Content Creator)
 
 ---
 
