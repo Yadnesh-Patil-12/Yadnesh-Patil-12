@@ -1,7 +1,6 @@
 <img src="https://github.com/Yadnesh-Patil-12/Yadnesh-Patil-12/blob/main/Yadnesh%20Patil%20-%20AI_ML%20Developer.png?raw=true" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Yadnesh Patil</h1>
-<h3 align="center">🚀 AI/ML & Full Stack Developer</h3>
+<img src="https://github.com/Yadnesh-Patil-12/Yadnesh-Patil-12/blob/main/image.png?raw=true" width="100%" />
 
 ---
 
@@ -63,9 +62,6 @@
 > "Transforming Ideas Into Code 🚀"
 
 ---
-
-## 📸 Extra Banner
-<img src="https://github.com/Yadnesh-Patil-12/Yadnesh-Patil-12/blob/main/image.png?raw=true" width="100%" />
 
 ---
 
