@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;DSA+Learner;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Python+%7C+C%2B%2B+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -15,6 +15,7 @@
 ## 💫 About Me
 - 🎓 Computer Engineering Student at **PCCOE, Pune**
 - 💻 Learning **DSA, Web Development & AI/ML**
+- 🧠 Strong in **Python & C++**
 - 🚀 Passionate about building real-world projects  
 - 📊 Interested in **Data Science & Cyber Security**
 - 🎥 Also creating tech content  
@@ -36,7 +37,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,java" />
 </p>
 
 ---
@@ -57,10 +58,13 @@
 
 ---
 
----
-
 ## 🎯 Quote
 > "Transforming Ideas Into Code 🚀"
+
+---
+
+## 📸 Extra Banner
+<img src="https://github.com/Yadnesh-Patil-12/Yadnesh-Patil-12/blob/main/image.png?raw=true" width="100%" />
 
 ---
 
