@@ -57,12 +57,6 @@
 
 ---
 
-## 🚀 Projects
-- 🔹 Accident Detection System (IoT + Android)
-- 🔹 Cyber Attack Detection System (AI-based)
-- 🔹 E-Commerce Website
-- 🔹 Portfolio Website
-
 ---
 
 ## 🎯 Quote
